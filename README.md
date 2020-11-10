@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+A first repositry to learn how to drive GitHub
+This is created on the second branch
